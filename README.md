@@ -63,7 +63,11 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 no action?
-cd
+
+Cookie: __jda=122270672.160809051682723******jxsid_s_t=1611113470441; jxsid_s_u=https%3A//home.m.jd.com/myJd/newhome.action; sc_width=1280
+
+注意：Cookie设置的value 前面需要 有"Cookie: "
+
 lh cookie https://www.plus888.com/21061.html
 wfg 2020年12月16日 13:35:16
-lh 2021年1月20日 11:07:14
+lh 2021年1月20日 11:36:08
